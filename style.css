@@ -3,7 +3,11 @@
 	text-align: center;
 }
 
-p {
+h1 {
 	color: blue;
 	display: inline-block;
+}
+
+p {
+	color: green;
 }
