@@ -1,0 +1,9 @@
+.container {
+	margin: 0px auto;
+	text-align: center;
+}
+
+p {
+	color: blue;
+	display: inline-block;
+}
